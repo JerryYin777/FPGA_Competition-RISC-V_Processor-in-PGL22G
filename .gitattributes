@@ -1,4 +1,2 @@
-*.js linguist-language=verilog
-*.css linguist-language=verilog
-*.html linguist-language=verilog
-*.java linguist-language=verilog
+linguist-language=verilog
+
