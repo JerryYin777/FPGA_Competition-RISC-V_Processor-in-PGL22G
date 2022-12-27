@@ -7,7 +7,7 @@ The main branch is the source project file in Pango Design Suit, th master branc
 ## Use
 To use  this riscv, pleace open the project in Pango Design Suit, and the folllowing steps are the same as which in tinyriscv. Refer to https://gitee.com/liangkangnan/tinyriscv
 
-## CoreMark score
+## Our CoreMark score
 
 <div align=center><img src="https://user-images.githubusercontent.com/88324880/200857709-a5850a39-aaee-4670-8823-e8374b26d1ce.png" width="800"></div>
 
