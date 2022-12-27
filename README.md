@@ -1,10 +1,11 @@
 ## FPGA Innovation Design Competition:RISC-V-Processor based Hardware and-Software Design
   
 This is our repo for FPGA Innovation Design Competition,we made a RISC-V CPU processor-based software and hardware design in PGL22G FPGA development board and the Maximum operating frequency up to 47MHz, performance up to 1.915CoreMark/MHz, consuming 0.3392w power.
-## code description
+## Description
 The main branch is the source project file in Pango Design Suit, th master branch is Tinyriscv's source file.
+
 ## Use
-To use  this riscv, pleace open the project in Pango Design Suit, and the folllowing steps are the same as which in tinyriscv. 
+To use  this riscv, pleace open the project in Pango Design Suit, and the folllowing steps are the same as which in tinyriscv. Refer to https://gitee.com/liangkangnan/tinyriscv
 
 ## CoreMark score
 
